@@ -1,0 +1,17 @@
+{
+  "name": "passport-sirap",
+  "version": "0.1.0",
+  "description": "Passport strategy for sirap using oauth2",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.sirap.fr:SWAP/passport-sirap.git"
+  },
+  "dependencies": {
+    "passport-oauth": "1.x.x",
+    "util" : "0.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
