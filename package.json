@@ -1,6 +1,6 @@
 {
   "name": "passport-sirap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport strategy for https://secure.sirap.fr using oauth2",
   "main": "./lib",
   "repository": {
