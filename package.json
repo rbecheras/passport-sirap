@@ -5,7 +5,14 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.sirap.fr:SWAP/passport-sirap.git"
+    "url": "https://github.com/sirap-group/passport-sirap.git"
+  },
+  "homepage": "https://github.com/sirap-group/passport-sirap",
+  "bugs": "https://github.com/sirap-group/passport-sirap/issues",
+  "author": {
+    "name" : "Rémi Becheras",
+    "email" : "rbecheras@sirap.fr",
+    "url" : "https://github.com/rbecheras"
   },
   "dependencies": {
     "passport-oauth": "1.x.x",
