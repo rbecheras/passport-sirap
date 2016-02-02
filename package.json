@@ -1,7 +1,7 @@
 {
   "name": "passport-sirap",
-  "version": "1.0.0-beta1",
-  "description": "Passport strategy for sirap using oauth2",
+  "version": "1.0.0",
+  "description": "Passport strategy for https://secure.sirap.fr using oauth2",
   "main": "./lib",
   "repository": {
     "type": "git",
